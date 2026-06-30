@@ -14,4 +14,4 @@ To Contribute to the success of Business by utilising data analysis techniques, 
 6. Forecast the sales for future 15 days
 7. Which country will have most sale based on forecast?
 
--Dashboard Interaction
+-Dashboard Interaction <a href="https://github.com/NikhilSolanki1/Superstore-Sales-Data-Analysis/blob/main/DashBoard_Image.png">View Dasboard</a>
